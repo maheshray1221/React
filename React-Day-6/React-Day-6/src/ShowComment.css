@@ -1,0 +1,10 @@
+.comment{
+    
+    width: 20vw;
+    background: rgba(220, 231, 157, 0.627);
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 15%;
+}
+.comment p{
+    color: rgb(5, 5, 5);
+}
